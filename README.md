@@ -21,7 +21,7 @@
 
 ---
 
-Naming things is hard. This sheet attempts to make it easier.
+Называть вещи довольно сложно. Эта статья пытается сделать это дело проще.
 
 Although these suggestions can be applied to any programming language, I will use C# to illustrate them in practice.
 
