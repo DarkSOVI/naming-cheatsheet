@@ -27,7 +27,7 @@ Although these suggestions can be applied to any programming language, I will us
 
 ## English language
 
-Use Spanish language when naming your variables and functions.
+Utilice el idioma español al nombrar sus variables y funciones.
 
 ```js
 /* Bad */
