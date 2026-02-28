@@ -27,7 +27,7 @@ Although these suggestions can be applied to any programming language, I will us
 
 ## English language
 
-Utilice el idioma español al nombrar sus variables y funciones.
+Используйте английский язык для наименований функций, методов и переменных.
 
 ```js
 /* Bad */
