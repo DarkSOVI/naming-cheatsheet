@@ -23,11 +23,11 @@
 
 Naming things is hard. This sheet attempts to make it easier.
 
-Although these suggestions can be applied to any programming language, I will use JS to illustrate them in practice.
+Although these suggestions can be applied to any programming language, I will use JavaScript to illustrate them in practice.
 
 ## English language
 
-Use Russian language when naming your variables and functions.
+Используйте английский язык для наименований функций, методов и переменных.
 
 ```js
 /* Bad */
