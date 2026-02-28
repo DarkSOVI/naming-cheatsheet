@@ -39,7 +39,7 @@ const firstName = 'Gustavo'
 const friends = ['Kate', 'John']
 ```
 
-> Like it or not, English is the dominant language in programming: the syntax of all programming languages is written in English, as well as countless documentations and educational materials. By writing your code in English you dramatically increase its cohesiveness.
+> Нравится вам это или нет, но английский язык является доминирующим в программировании: синтаксис всех языков программирования написан на английском языке, как и бесчисленное количество документации и учебных материалов. Написание кода на английском языке значительно повышает его связность.
 
 ## Naming convention
 
