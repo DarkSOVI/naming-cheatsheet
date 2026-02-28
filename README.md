@@ -23,7 +23,7 @@
 
 Называть вещи довольно сложно. Эта статья пытается сделать это дело проще.
 
-Although these suggestions can be applied to any programming language, I will use C# to illustrate them in practice.
+Несмотря на то, что эти рекомендации подходят для любого языка программирования, для демонстрации я буду использовать JavaScript.
 
 ## English language
 
